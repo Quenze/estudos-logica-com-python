@@ -4,7 +4,7 @@
 import random
 
 def sorteador():
-    participantes = ["Alice", "Bruno", "Carlos", "Daniela", "Eduardo", "Fernanda"]
+    participantes = ["Angelina", "Lucas", "Bruna", "Tamires", "Eduardo", "Ingrid"]
     print("Lista de participantes:")
     for i, participante in enumerate(participantes, start=1):
         print(f"{i}. {participante}")
